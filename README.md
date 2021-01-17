@@ -6,20 +6,3 @@ The ever-changing mobile landscape is a challenging space to navigate. . The per
 
 With million of apps around nowadays, the following data set has become very key to getting top trending apps in iOS app store. This data set contains more than 7000 Apple iOS mobile application details.
 
-Data description:
-"id" : App ID
-"track_name": App Name
-"size_bytes": Size (in Bytes)
-"currency": Currency Type
-"price": Price amount
-"ratingcounttot": User Rating counts (for all version)
-"ratingcountver": User Rating counts (for current version)
-"user_rating" : Average User Rating value (for all version)
-"userratingver": Average User Rating value (for current version)
-"ver" : Latest version code
-"cont_rating": Content Rating
-"prime_genre": Primary Genre
-"sup_devices.num": Number of supporting devices
-"ipadSc_urls.num": Number of screenshots showed for display
-"lang.num": Number of supported languages
-"vpp_lic": Vpp Device Based Licensing Enabled
